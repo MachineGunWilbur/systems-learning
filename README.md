@@ -1,7 +1,7 @@
 # systems-learning
-Uhhh so lowk idk anything so dis my time to learn stuff ig /n
-Tung Tung Tung Sahur /n
-Documented progress learning computer systems, performance engineering, and AI inference
+Uhhh so lowk idk anything so dis my time to learn stuff ig <br>
+Tung Tung Tung Sahur <br>
+Documented progress learning computer systems, performance engineering, and AI inference <br>
 ## Currently Learning
 
 - Computer architecture
