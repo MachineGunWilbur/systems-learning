@@ -1,5 +1,4 @@
 # systems-learning
-Uhhh so lowk idk anything so dis my time to learn stuff ig
-# Aug 7 2:03 PM 
-Tung Tung Tung Sahur
+Uhhh so lowk idk anything so dis my time to learn stuff ig \n
+Tung Tung Tung Sahur \n
 Documented progress learning computer systems, performance engineering, and AI inference
